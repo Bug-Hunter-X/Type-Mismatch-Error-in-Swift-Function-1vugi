@@ -1,0 +1,1 @@
+This example demonstrates a common Swift error: a type mismatch in function arguments. The `calculateArea` function expects `Double` values for both `width` and `height`, but the call attempts to pass a String. This will result in a compile-time error. The solution involves ensuring that all arguments passed match the function's expected types.
